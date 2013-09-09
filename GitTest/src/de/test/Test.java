@@ -10,5 +10,6 @@ public class Test {
 		System.out.println("Hello test xxx");
 		// remove this
 		// ok 
+		System.out.println("cool new feature");
 	}
 }
